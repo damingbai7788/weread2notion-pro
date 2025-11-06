@@ -6,6 +6,9 @@
 预览效果：[https://malinkang.notion.site/malinkang/534a7684b30e4a879269313f437f2185](https://malinkang.notion.site/9a311b7413b74c8788752249edd0b256?pvs=25)
 
 
+> [!CAUTION]  
+> 目前项目已不能使用，可以通过chrome插件来使用：https://www.notionhub.app/docs/install.html
+
 ## 使用
 
 > [!IMPORTANT]  
@@ -20,7 +23,7 @@
 
 | 微信群 | QQ群 |
 | --- | --- |
-| <div align="center"><img src="https://github.com/malinkang/weread2notion/assets/3365208/e28d1fb8-a861-47e1-b5e8-b25f17a6a285" ></div> | <div align="center"><img src="https://images.malinkang.com/2024/04/b225b17d60670e4a6ff3459bbde80d28.jpg" width="50%"></div> |
+| <div align="center"><img src="https://images.malinkang.com/2024/10/2dfe1f98391e7bd2ee03879e788e5649.jpg" ></div> | <div align="center"><img src="https://images.malinkang.com/2024/10/f6d61b082e78f001cff8ab0a21344fe9.jpeg" width="50%"></div> |
 
 
 ## 捐赠
